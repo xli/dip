@@ -4,12 +4,11 @@
 
 # Production
 /build
-/all-docs__GENERATED
 
 # Generated files
 .docusaurus
 .cache-loader
-LIPMetadata.json
+DIPMetadata.json
 
 # Misc
 .DS_Store
